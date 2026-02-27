@@ -1,0 +1,24 @@
+a) -rwxr-xr--
+Owner: read, write, execute
+Group: read, execute
+Others: read only
+
+b) drwxrwx---
+Owner: read, write, execute
+Group: read, write, execute
+Others: no access
+
+c) -rw-r--r--
+Owner: read, write
+Group: read only
+Others: read only
+
+d) chmod 750 file
+Owner: read, write, execute
+Group: read, execute
+Others: no access
+
+e) chmod 600 file
+Owner: read, write
+Group: no access
+Others: no access
