@@ -1,0 +1,5 @@
+tree is useful for backend developers because it displays the directory structure in a clear and hierarchical format.
+ It helps visualize project organization and quickly locate files in large applications.
+
+htop is useful because it provides a real-time view of system processes and resource usage.
+ Backend developers can monitor CPU, memory, and running services while debugging or optimizing applications.

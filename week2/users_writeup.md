@@ -1,4 +1,4 @@
-# Part 1 – /etc/passwd Explanation
+  # Part 1 – /etc/passwd Explanation
 
 Command used:
 cat /etc/passwd | grep -E "dev_alice|dev_bob"
